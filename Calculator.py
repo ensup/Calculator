@@ -1,6 +1,6 @@
 e="n"
 while e=='n':
-    print('This Calculator is only for addition')
+    print('*This Calculator is only for addition*')
     f=int(input("Type first number:"))
     l=int(input("Type second number:"))
     a=f+l
